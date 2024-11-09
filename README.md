@@ -20,4 +20,8 @@ Modeling: Implemented several machine learning models and fine-tuned them to imp
 Evaluation: Assessed model performance using metrics like RMSE to ensure robust predictions.
 
 Results :
+
 The final model demonstrates effective prediction capabilities, providing BigMart with insights into the product and store attributes that influence sales. The submission file, submission.csv, includes predictions for each product-outlet combination.
+
+Score and Rank :
+<img width="1324" alt="Screenshot 2024-11-09 at 1 26 44 PM" src="https://github.com/user-attachments/assets/c91c9078-18ae-42c9-888d-9112ea4b3294">
